@@ -5,4 +5,4 @@ Berikut Beberapa Plugin Untuk Ocean:
 3. Shadowquic
 4. Juicity
    
-[Klik Disini](https://github.com/EzqIusia/Plugin/releases) Untuk Mendownload Salah Satu Aplikasi Diatas.
+[Klik Disini](https://github.com/EzqIusia/Plugin/releases) Untuk Mendownload Salah Satu Plugin Diatas.
